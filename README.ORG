@@ -1,0 +1,2 @@
+* cig-guix
+Channel for some personal Guix packages
