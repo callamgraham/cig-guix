@@ -1,0 +1,7 @@
+;;; SPDX-License-Identifier: GPL-3.0-or-later
+;; -*- mode: scheme; -*-
+
+(channel
+ (version 0)
+ (news-file "news.txt")
+ (url "https://github.com/callamgraham/cig-guix")) ; the primary URL
