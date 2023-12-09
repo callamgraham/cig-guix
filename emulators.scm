@@ -3,7 +3,7 @@
 
 (define-module (cig-guix emulators)
   #:use-module (ice-9 match)
-  #:use-module ((guix licenses) #:prefix license:)
+  #:use-module (guix licenses)
   #:use-module (guix gexp)
   #:use-module (guix packages)
   #:use-module (guix download)
@@ -175,4 +175,4 @@
      (synopsis "Nintendo 3DS Emulator")
      (description "Citra is an experimental emulator/debugger for the Nintendo 3DS
 written in C++.  It emulates a subset of the Nintendo 3DS' hardware.")
-     (license license:gpl2+))))
+     (license gpl2+))))
