@@ -1,7 +1,7 @@
 ;;; Not really how much of this is actually needed but didn't feel like debugging
 ;;; copied from gnu packages emulators
 
-(define-module (cig-guix emulators)
+(define-module (cig-emulators)
   #:use-module (ice-9 match)
   #:use-module (guix licenses)
   #:use-module (guix gexp)
