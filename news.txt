@@ -1,1 +1,5 @@
-a space for news
+(channel-news
+  (version 0)
+  (entry (tag "Citra")
+         (title (en "Citra Emulator"))
+         (body (en "Since it hasnt been accepted at the distro level")))
